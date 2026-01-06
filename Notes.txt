@@ -1,0 +1,12 @@
+By Sir :- Mr. Ayush Tiwari
+
+Date   :- 6th Jan 2026
+Learning Shell commands
+ls=dir      : LS Stants for List.
+clear = cls    : To clear the Screen.
+typr nul>a.txt : this will create a empty file.
+echo "Hello World!">a.txt.  :   This will add the content in a.txt file.
+rm = del    : To delete the file.
+
+git works locally.
+git Hub manages it on web.
