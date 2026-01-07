@@ -10,3 +10,14 @@ rm = del    : To delete the file.
 
 git works locally.
 git Hub manages it on web.
+
+
+Date   :- 6th Jan 2026
+
+Linear Flow to push in a new REPO.
+    1. git init
+    2. git add .
+    3. git config --global user.email "your-email"
+    4. git config --global user.name "your-name"
+    5. git commit -m "First Commit"
+    6. git add remote origin <repo-url>
