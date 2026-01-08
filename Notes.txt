@@ -21,3 +21,7 @@ Linear Flow to push in a new REPO.
     4. git config --global user.name "your-name"
     5. git commit -m "First Commit"
     6. git add remote origin <repo-url>
+
+Date   :- 8th Jan 2026
+    git branch   :-  To check the current branch
+    git checkout -b newFile     :- to create a New Branch.
