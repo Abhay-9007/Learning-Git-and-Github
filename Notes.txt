@@ -15,8 +15,8 @@ git Hub manages it on web.
 Date   :- 6th Jan 2026
 
 Linear Flow to push in a new REPO.
-    1. git init
-    2. git add .
+    1. git init     :- TO Initialized.
+    2. git add .    :- TO select Files '.' to select all files, else we can give file name.
     3. git config --global user.email "your-email"
     4. git config --global user.name "your-name"
     5. git commit -m "First Commit"
